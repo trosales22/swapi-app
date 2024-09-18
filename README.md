@@ -15,3 +15,6 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Deployed Link
+- https://swapi-app-eight.vercel.app
